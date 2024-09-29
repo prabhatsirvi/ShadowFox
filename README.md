@@ -1,0 +1,1 @@
+Welcome to my GitHub repository! I completed an internship in Python Development at ShadowFox, where I worked on several exciting projects. Each project in this repository highlights my learning journey, skills, and creativity as I explored various aspects of Python development.
